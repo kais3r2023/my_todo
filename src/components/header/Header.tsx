@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Avatar from "@/images/avatar(21).png";
+import Avatar from "@/images/avatar(19).png";
 
 const Header: React.FC = () => {
   return (
@@ -14,7 +14,7 @@ const Header: React.FC = () => {
           height={96}
         />
         <div className="col-start-2 flex flex-col justify-center items-center">
-          <h2 className="text-4xl">Hola, Daniel</h2>
+          <h2 className="text-4xl">Hola, Katty</h2>
           <h3 className="mt-3">Tienes 0 tareas pendientes</h3>
         </div>
       </div>
